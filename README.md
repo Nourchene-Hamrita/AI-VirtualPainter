@@ -1,4 +1,4 @@
-## 🎨 AI Virtual Painter
+# 🎨 AI Virtual Painter
 
 A real-time gesture-based drawing application that allows users to track hand landmarks to draw on the screen, with two fingers for selection and one finger for drawing. Includes visual indicators for selection and drawing modes, and the ability to change brush color and size.
 
