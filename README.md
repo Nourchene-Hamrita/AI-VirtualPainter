@@ -12,7 +12,7 @@ A real-time gesture-based drawing application that allows users to track hand la
 - 🧽 Clear canvas using hand gesture
 - ⚡ Smooth and responsive performance
 
-🎮 Controls & Gestures
+## 🎮 Controls & Gestures
 
 | Action | Description |
 |--------|--------|
