@@ -1,7 +1,7 @@
 ## 🎨 AI Virtual Painter
 
 A real-time gesture-based drawing application that allows users to track hand landmarks to draw on the screen, with two fingers for selection and one finger for drawing. Includes visual indicators for selection and drawing modes, and the ability to change brush color and size.
-
+```
 ## 🚀 Features
 
 - ✋ Real-time hand tracking using MediaPipe
@@ -11,6 +11,14 @@ A real-time gesture-based drawing application that allows users to track hand la
 - 🧹 Eraser functionality
 - 🧽 Clear canvas using hand gesture
 - ⚡ Smooth and responsive performance
+
+````
+🎮 Controls & Gestures
+
+| Action | Description |
+|--------|--------|
+| **✌️ 2 fingers up** | Select a tool |
+| **☝️ 1 finger up** | Draw on canvas |
 
 ## 🧱 Architecture Overview
 
